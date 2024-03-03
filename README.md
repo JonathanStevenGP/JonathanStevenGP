@@ -5,7 +5,7 @@ Hi 👋, I'm Jonathan.<br><br>I'm a Systems Engineering student From Colombia �
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@jonnathan__) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonathansteven__) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jonathan-gelvez-ab3bb4283/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jonathan-gelvez-ab3bb4283/) 
 [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail.ru)](mailto:jonathangelvez03@gmail.com)
 
 # 💻 Tech Stack:
