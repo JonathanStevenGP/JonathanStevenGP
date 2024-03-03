@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hi 👋, I'm Jonathan.<br><br>I'm a Systems Engineering student From Colombia 🇨🇴<br><br>I'm learning different programming languages ​​to be a Full Stack developer.
+# Hi 👋, I'm Jonathan.
+<h3>I'm a Systems Engineering student From Colombia 🇨🇴</h3>
+<br><br>
+- 💬 About me **I'm a Student in 5th Semester in a University of Colombia, I'm learning differents programming languages ​​to be a Full Stack developer and for have each day diferrents knowledge for personal develoment.**
 
 
 ## 🌐 Socials:
